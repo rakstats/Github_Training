@@ -14,4 +14,8 @@ git init Git_Training
 cd Git_Training
 git status
 
-5.
+5. Add and commit the initial documentaion in git_training.txt
+git add . (or use the file name git_training.txt)
+git commit -m "My first commit"
+
+6. Create a .gitignore file and include in the git folder (repository)
