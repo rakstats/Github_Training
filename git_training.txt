@@ -1,0 +1,17 @@
+1. Configuration commands for github
+git config --global user.name "Suman Rakshit"
+git config --global user.email "sumanprobability@gmail.com"
+
+2. To check your configuration
+git config --list
+
+3. Initialize the folder for tracking and version control
+   Should be in the parent directory of the folder we wish
+   to version control.
+git init Git_Training
+
+4. Go inside the repository and check status of the version controling system
+cd Git_Training
+git status
+
+5.
