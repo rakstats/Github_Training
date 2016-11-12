@@ -22,4 +22,4 @@ git commit -m "My first commit"
 
 7. To connect with the Github website and upload (push) the folder on the site, 
    we need to first generate a SSH key (using RSA algorithm)
- ssh genkey -t rsa -C "sumanprobability@gmail.com"
+ ssh-genkey -t rsa -C "sumanprobability@gmail.com"
