@@ -19,3 +19,7 @@ git add . (or use the file name git_training.txt)
 git commit -m "My first commit"
 
 6. Create a .gitignore file and include in the git folder (repository)
+
+7. To connect with the Github website and upload (push) the folder on the site, 
+   we need to first generate a SSH key (using RSA algorithm)
+ ssh genkey -t rsa -C "sumanprobability@gmail.com"
